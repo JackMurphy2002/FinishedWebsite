@@ -1,0 +1,44 @@
+/* Body Css formatting*/
+body{
+    background-color: rgba(27, 112, 223, 0.623);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* Formatting for group of heading h1 h2 and h3*/
+h1,h2,h3
+{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+
+}
+/*id to forat main text*/
+#mainText
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+/* class full width image*/
+.fullWidthContent
+{
+    width: 25%;
+}
+/* format the anchor*/
+a{
+    font-size: 35px;
+}
+table, tr, th
+{border: 2px black;}
+/* class for nav anchor */
+.anchorLarge
+{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    padding: 80px;
+
+}
+
+
+
